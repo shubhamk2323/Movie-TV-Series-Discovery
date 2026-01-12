@@ -68,3 +68,12 @@ Assumptions
   Release year is used as the release date as provided by the API
   UI design is kept simple to focus on logic and functionality
   Unit tests are documented rather than fully implemented
+
+![1](https://github.com/user-attachments/assets/6ac3cb36-8c67-48b5-a935-494070b5aef0)
+![2](https://github.com/user-attachments/assets/b4d83920-a690-4fb4-b1c2-681d63feb017)
+![3](https://github.com/user-attachments/assets/3e6dc1d4-1cdb-452e-af5e-0b0053a35619)
+![4](https://github.com/user-attachments/assets/4f3016ff-abb5-4f48-898b-a8f62704390d)
+![5](https://github.com/user-attachments/assets/b40e1323-77de-4d75-95ea-836483bfe44c)
+![6](https://github.com/user-attachments/assets/214a060e-e0ad-4338-85db-0ac388281d00)
+
+
